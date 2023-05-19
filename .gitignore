@@ -1,0 +1,16 @@
+# Ignore .log files
+*.log
+
+# Ignore the bin directory
+/bin
+
+# Ignore all .txt files in the doc/ directory
+/doc/*.txt
+
+# Ignore the file secret.txt
+#secret.txt
+
+# Ignore all .pdf files in the current directory and all subdirectories
+#**/*.pdf
+
+
