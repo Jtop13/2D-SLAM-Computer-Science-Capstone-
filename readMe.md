@@ -1,9 +1,8 @@
 PIP notes from Jack Topper (2023)
 
 
-The following is my 2D-SLAM capstone project using robot PIP:
+The following is my 2D-SLAM computer science capstone project using robot PIP:
 
-The following is my 2D-SLAM project using robot PIP.
 
 In order to compile the c++ code with python3.5m run make file in this folder with:
 
